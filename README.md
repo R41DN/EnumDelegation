@@ -2,8 +2,6 @@
 
 > **Enumeración 100% independiente de PowerView, Impacket o módulos externos. Funciona en cualquier Windows 7+ con PowerShell 2.0+.**
 
-![EnumDelegation Demo]([https://via.placeholder.com/800x400?text=EnumDelegation+Demo+Screenshot](https://github.com/R41DN/EnumDelegation/blob/main/Ejemplo.png?raw=true))  
-
 ---
 
 ## 📌 Descripción
@@ -55,3 +53,7 @@ Ideal para **pentesters, red teams y evaluadores de seguridad** que necesitan id
 ```bash
 .\EnumDelegation.ps1 -OutputPath "C:\temp\DelegationReport.csv"
 ```
+
+## ✅ Ejemplo
+
+![Output](Ejemplo.png)
